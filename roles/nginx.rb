@@ -1,5 +1,5 @@
 name "nginx"
-decription "This host runs Nginx"
+description "This host runs Nginx"
 
 run_list [ "recipe[nginx]" ]
 
